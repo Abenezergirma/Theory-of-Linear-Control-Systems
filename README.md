@@ -13,14 +13,14 @@ Feed Forward Controller
 
 ![](Figures/with%20feed%20forward%20gain.png)
 
-Feed Forward + Integrator Controller -- Step Input Signal 
+Feed Forward + Integrator Controller -- Step Disturbance  
 
 ![](Figures/integrator%20response.png)
 
-Feed Forward + Integrator Controller -- Square Input Signal 
+Feed Forward + Integrator Controller -- Square Disturbance
 
 ![](Figures/integrator%20response%20square.png)
 
-Feed Forward + Integrator Controller -- Sinusoidal Input Signal 
+Feed Forward + Integrator Controller -- Sinusoidal Disturbance
 
 ![](Figures/sinusoidal%20response%20integral.png)
